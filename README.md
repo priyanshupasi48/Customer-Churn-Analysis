@@ -44,12 +44,12 @@ The project uses Python, Excel, SQL, and Power BI to clean, analyze, and visuali
 
 The Power BI dashboard focuses on the following KPIs:
 
-- **Total Customers:** Total number of customers in the dataset.
-- **Churned Customers:** Number of customers who discontinued their service.
-- **Churn Rate:** Percentage of customers who discontinued their service.
-- **Retention Rate:** Percentage of customers who remained with the company.
-- **Average Monthly Charges:** Average monthly billing amount across customers.
-
+- **Total Customers:** Total number of customers in the dataset is 7043.
+- **Churned Customers:** Number of customers who discontinued their service is 1869.
+- **Churn Rate:** Percentage of customers who discontinued their service is 26.54%.
+- **Retention Rate:** Percentage of retained customers who remained with the company is 73.46%.
+- **Average Monthly Charges (Churned customers):** Average monthly charges of churned customers is $73.44.
+- **Average Monthly Charges (Retained customers):** Average monthly charges of retained customers is $61.27.
 ### KPI Formulas
 
 **Churn Rate**
@@ -71,7 +71,7 @@ The Power BI dashboard explores the following areas:
     Two Year -- 2.83 %
 
 
-2. **Churn by Tenure**: The churn bye tenure chart tells how churn varies with customer tenure.
+2. **Churn by Tenure**: The churn by tenure chart tells how churn varies with customer tenure.
      The churn by tenure shows the churn customers are 
      0-12 Months -- 1037
      13-24 Months -- 294
